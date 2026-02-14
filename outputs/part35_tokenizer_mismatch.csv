@@ -1,0 +1,3 @@
+pair,status,outcome
+GPT model + BERT tokenizer,ran,the capital of france is [unused193] [unused193] [unused193] [unused193] [unused193] [unused193] [unused193] [unused193] [unused193] [unused193]
+BERT model + GPT tokenizer,ran,Predicted token id 1000 -> 'ale'

@@ -1,0 +1,7 @@
+text,char_len,token_len,tokens
+Hello world!,12,5,[CLS] hello world ! [SEP]
+HELLO world!,12,5,[CLS] hello world ! [SEP]
+"Hello, world!!!",15,8,"[CLS] hello , world ! ! ! [SEP]"
+The number 1024 is important.,29,9,[CLS] the number 102 ##4 is important . [SEP]
+Supercalifragilisticexpialidocious is uncommon.,47,16,[CLS] super ##cal ##if ##rag ##ilis ##tic ##ex ##pia ##lid ##oc ##ious is uncommon . [SEP]
+A very very very very very long sentence with repeated words.,61,14,[CLS] a very very very very very long sentence with repeated words . [SEP]

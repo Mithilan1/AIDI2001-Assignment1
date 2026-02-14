@@ -1,0 +1,7 @@
+model,task,input,result
+GPT (distilgpt2),continuation,Deep learning models are very,Deep learning models are very good at modeling them. They can be combined with the real-time modeling of the data. The
+BERT (bert-base-uncased),fill-mask,Deep learning models are very [MASK].,simple (score=0.1230)
+BERT (bert-base-uncased),fill-mask,Deep learning models are very [MASK].,popular (score=0.0897)
+BERT (bert-base-uncased),fill-mask,Deep learning models are very [MASK].,common (score=0.0708)
+BERT (bert-base-uncased),fill-mask,Deep learning models are very [MASK].,effective (score=0.0505)
+BERT (bert-base-uncased),fill-mask,Deep learning models are very [MASK].,different (score=0.0387)
