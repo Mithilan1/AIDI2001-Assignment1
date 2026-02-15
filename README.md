@@ -9,18 +9,28 @@ Assignment 1 for AIDI2001 (Deep Learning for NLP).
 
 ## Required Libraries
 
-- `torch`
-- `transformers`
-- `pandas`
-- `seaborn`
-- `matplotlib`
-- `datasets`
-- `notebook` (for running `Assignment1.ipynb`)
+- `torch`: PyTorch deep learning framework
+- `transformers`: Hugging Face transformers library (BERT, GPT models)
+- `tokenizers`: Fast tokenizer implementations
+- `pandas`: Data manipulation and analysis
+- `seaborn`: Statistical data visualization
+- `matplotlib`: Plotting and visualization
+- `accelerate`: Distributed training and inference utilities
+- `safetensors`: Safe serialization format for tensors
+- `sentencepiece`: Text tokenization and detokenization library
+- `datasets`: Hugging Face datasets library
+- `notebook`: Jupyter notebook support
 
 ## Install
 
 ```bash
-pip install torch transformers pandas seaborn matplotlib datasets notebook
+pip install torch transformers tokenizers pandas seaborn matplotlib accelerate safetensors sentencepiece datasets notebook
+```
+
+Or with uv:
+
+```bash
+uv pip install torch transformers tokenizers pandas seaborn matplotlib accelerate safetensors sentencepiece datasets notebook
 ```
 
 ## Project Files
