@@ -130,11 +130,19 @@ The number 1024 is important because,creative,3,"The number 1024 is important be
 
 
 "
-"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.",greedy,1,"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.5, and dinner $3.00, day Thur, time Lunch, party size 7.5, and dinner $3.00, day Thur, time Lunch, party"
-"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.",greedy,2,"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.5, and dinner $3.00, day Thur, time Lunch, party size 7.5, and dinner $3.00, day Thur, time Lunch, party"
-"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.",greedy,3,"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.5, and dinner $3.00, day Thur, time Lunch, party size 7.5, and dinner $3.00, day Thur, time Lunch, party"
-"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.",creative,1,"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.5, dinner time $12.00, table time $14.00, table time $13.00, table time $15.00, table time $16."
-"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.",creative,2,"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.50pm, day Dinner and appetizers $4.00.
+"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.",greedy,1,"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.00
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -157,4 +165,110 @@ The number 1024 is important because,creative,3,"The number 1024 is important be
 
 
 "
-"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.",creative,3,"This restaurant record says: bill $19.44, tip $3.00, day Thur, time Lunch, party size 7.35, and lunch Time 2.25. $3.00. Lunch Time 2.25. $3.00. Lunch Time 2.25. $3.00"
+"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.",greedy,2,"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.",greedy,3,"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.",creative,1,"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.00, dinner time $12.00, dinner time $14.00, dinner time $15.00, dinner time $19.00, dinner time $20."
+"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.",creative,2,"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.50, lunch $7.50, lunch $10.50, lunch $15.50, lunch $20.50, lunch $20.50, lunch $21"
+"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.",creative,3,"Restaurant record: bill $19.44, tip $3.00, day Thur, time Lunch, party size 10.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
